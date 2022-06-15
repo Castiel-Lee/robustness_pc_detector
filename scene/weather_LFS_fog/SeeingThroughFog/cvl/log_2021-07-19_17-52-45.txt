@@ -1,0 +1,72 @@
+there are 11 frames without any VLP32 points inside the camera FOV
+2018-02-03_20-50-46,00000 removed from all_vlp32.txt
+2018-02-03_21-02-09,00000 removed from all_vlp32.txt
+2018-02-05_12-17-26,00000 removed from all_vlp32.txt
+2018-02-06_16-40-12,00000 removed from all_vlp32.txt
+2018-02-06_18-05-14,00000 removed from all_vlp32.txt
+2018-02-09_09-39-15,00000 removed from all_vlp32.txt
+2018-02-09_09-39-15,00100 removed from all_vlp32.txt
+2018-02-12_08-55-21,00040 removed from all_vlp32.txt
+2018-12-19_11-44-54,00000 removed from all_vlp32.txt
+2018-12-19_11-47-45,00700 removed from all_vlp32.txt
+2018-12-19_11-51-12,00200 removed from all_vlp32.txt
+all_vlp32.txt is now clean
+all_vlp32.txt saved successfully
+test_clear_day_vlp32.txt is now clean
+test_clear_day_vlp32.txt saved successfully
+test_clear_night_vlp32.txt is now clean
+test_clear_night_vlp32.txt saved successfully
+test_clear_vlp32.txt is now clean
+test_clear_vlp32.txt saved successfully
+test_dense_fog_day_vlp32.txt is now clean
+test_dense_fog_day_vlp32.txt saved successfully
+test_dense_fog_night_vlp32.txt is now clean
+test_dense_fog_night_vlp32.txt saved successfully
+test_dense_fog_vlp32.txt is now clean
+test_dense_fog_vlp32.txt saved successfully
+test_light_fog_day_vlp32.txt is now clean
+test_light_fog_day_vlp32.txt saved successfully
+test_light_fog_night_vlp32.txt is now clean
+test_light_fog_night_vlp32.txt saved successfully
+test_light_fog_vlp32.txt is now clean
+test_light_fog_vlp32.txt saved successfully
+test_snow_day_vlp32.txt is now clean
+test_snow_day_vlp32.txt saved successfully
+test_snow_night_vlp32.txt is now clean
+test_snow_night_vlp32.txt saved successfully
+test_snow_vlp32.txt is now clean
+test_snow_vlp32.txt saved successfully
+2018-02-05_12-17-26,00000 removed from train_clear_day_vlp32.txt
+2018-02-06_16-40-12,00000 removed from train_clear_day_vlp32.txt
+2018-02-09_09-39-15,00000 removed from train_clear_day_vlp32.txt
+2018-02-09_09-39-15,00100 removed from train_clear_day_vlp32.txt
+2018-02-12_08-55-21,00040 removed from train_clear_day_vlp32.txt
+2018-12-19_11-44-54,00000 removed from train_clear_day_vlp32.txt
+2018-12-19_11-47-45,00700 removed from train_clear_day_vlp32.txt
+2018-12-19_11-51-12,00200 removed from train_clear_day_vlp32.txt
+train_clear_day_vlp32.txt is now clean
+train_clear_day_vlp32.txt saved successfully
+2018-02-06_18-05-14,00000 removed from train_clear_night_vlp32.txt
+train_clear_night_vlp32.txt is now clean
+train_clear_night_vlp32.txt saved successfully
+2018-02-05_12-17-26,00000 removed from train_clear_vlp32.txt
+2018-02-06_16-40-12,00000 removed from train_clear_vlp32.txt
+2018-02-06_18-05-14,00000 removed from train_clear_vlp32.txt
+2018-02-09_09-39-15,00000 removed from train_clear_vlp32.txt
+2018-02-09_09-39-15,00100 removed from train_clear_vlp32.txt
+2018-02-12_08-55-21,00040 removed from train_clear_vlp32.txt
+2018-12-19_11-44-54,00000 removed from train_clear_vlp32.txt
+2018-12-19_11-47-45,00700 removed from train_clear_vlp32.txt
+2018-12-19_11-51-12,00200 removed from train_clear_vlp32.txt
+train_clear_vlp32.txt is now clean
+train_clear_vlp32.txt saved successfully
+val_clear_day_vlp32.txt is now clean
+val_clear_day_vlp32.txt saved successfully
+2018-02-03_20-50-46,00000 removed from val_clear_night_vlp32.txt
+2018-02-03_21-02-09,00000 removed from val_clear_night_vlp32.txt
+val_clear_night_vlp32.txt is now clean
+val_clear_night_vlp32.txt saved successfully
+2018-02-03_20-50-46,00000 removed from val_clear_vlp32.txt
+2018-02-03_21-02-09,00000 removed from val_clear_vlp32.txt
+val_clear_vlp32.txt is now clean
+val_clear_vlp32.txt saved successfully
