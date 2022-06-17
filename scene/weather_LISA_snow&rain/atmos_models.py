@@ -79,7 +79,7 @@ class LISA():
             self.N_model = lambda D, Rr    : self.N_MG_snow(D,Rr)
             self.N_tot   = lambda Rr,dst   : self.N_MG_tot_snow(Rr,dst)
             self.N_sam   = lambda Rr,N,dst : self.MG_Sample_snow(Rr,N,dst)
-            self.m       = 1.3031 # refractive index of ice
+            self.m       = 1.3031 * 100 # refractive index of ice           # robustness_pc_detector: enlarge "m" to simulate the high-fidelity severity of snow
             
             # Augmenting function: hybrid Monte Carlo
             self.augment  = lambda pc,Rr : self.augment_mc(pc,Rr)
