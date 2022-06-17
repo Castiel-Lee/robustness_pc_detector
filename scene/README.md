@@ -3,3 +3,4 @@ More details of the implementation are as in `density`, `noise`, `weather_LFS_fo
 # Contribution
 For the simulation of rain and snow, we utilize the LISA (https://github.com/velatkilic/LISA). 
 For the simulation of fog, we utilize Lidar_fog_simulation (https://github.com/MartinHahner/LiDAR_fog_sim).
+We would like to thank for their proposed methods and the official implementation.
