@@ -1,5 +1,3 @@
-To get augmented data corrupted by Noise_obj, run:
-
 # Simulation
 
 ## Noise_obj
