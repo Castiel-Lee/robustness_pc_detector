@@ -13,3 +13,13 @@ data
 │   │── testing
 │   │   ├──calib & velodyne & image_2
 ```
+More details of the implementtation are as in `object` and `scene`. 
+
+# Acknowledgement
+Some parts of the code implement are learned from the official released codes of the below methods:
+* Snow and Rain simulation: [LISA](https://github.com/velatkilic/LISA)
+* Fog simulation: [Lidar_fog_simulation](https://github.com/MartinHahner/LiDAR_fog_sim)
+* Object-level corruptions: [ModelNet40-C](https://github.com/jiachens/ModelNet40-C/tree/master/data)
+* Extraction of object-level points: [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
+
+We would like to thank for their proposed methods and the official implementation.
