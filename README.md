@@ -10,7 +10,7 @@ data
 │   │── ImageSets
 │   │── training
 │   │   ├──calib & velodyne & label_2 & image_2 
-│   │── testing
+│   │── testing (optional)
 │   │   ├──calib & velodyne & image_2
 ```
 More details of the implementtation are as in `object` and `scene`. 
