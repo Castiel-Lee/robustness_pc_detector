@@ -29,8 +29,13 @@ We formulate `25 corruptions` covering 2 affecting ranges $\times$ 4 corruption 
 
 For the implementation of `25 corruptions`, corresponding `README` files under the `object` and `scene` folders give the details on the Python commands to generate simulated data.
 
-We show some corruption examples as the bellow:
+We show some corruption examples based on the KITTI LiDAR example with ID = `000008` as the bellow:
 
+### Snow
+![snow example](https://github.com/Castiel-Lee/robustness_pc_detector/blob/main/image/snow.png)
+
+### Scene-level uniform noise
+![uniform_rad example](https://github.com/Castiel-Lee/robustness_pc_detector/blob/main/image/uniform_rad.png)
 
 # Acknowledgement
 Some parts of the code implement are learned from the official released codes of the below methods:
