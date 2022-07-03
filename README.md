@@ -29,13 +29,19 @@ We formulate `25 corruptions` covering 2 affecting ranges $\times$ 4 corruption 
 
 For the implementation of `25 corruptions`, corresponding `README` files under the `object` and `scene` folders give the details on the Python commands to generate simulated data.
 
-We show some corruption examples based on the KITTI LiDAR example with ID = `000008` as the bellow:
+We show some corruption examples based on the KITTI LiDAR example with ID = `000008`, as in the below figures. Besides, we provide the ground-truth annotations of objects and detection results obtained by [PVRCNN](https://github.com/open-mmlab/OpenPCDet) in the format of bounding boxes.
+
+### Clean
+![clean example](https://github.com/Castiel-Lee/robustness_pc_detector/blob/main/image/clean.png)
 
 ### Snow
 ![snow example](https://github.com/Castiel-Lee/robustness_pc_detector/blob/main/image/snow.png)
 
 ### Scene-level uniform noise
 ![uniform_rad example](https://github.com/Castiel-Lee/robustness_pc_detector/blob/main/image/uniform_rad.png)
+
+### Scene-level layer missing
+![layer_del example](https://github.com/Castiel-Lee/robustness_pc_detector/blob/main/image/layer_del.png)
 
 # Acknowledgement
 Some parts of the code implement are learned from the official released codes of the below methods:
