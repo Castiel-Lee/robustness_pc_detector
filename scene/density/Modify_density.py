@@ -148,7 +148,7 @@ def car2sph_pc(pointcloud):
     '''
     r_sph = np.sqrt(pointcloud[:,0]**2 + pointcloud[:,1]**2 + pointcloud[:,2]**2)
     phi = np.arctan2(pointcloud[:,1],pointcloud[:,0])
-    the = the = np.arccos(pointcloud[:,2]/r_sph)
+    the = np.arccos(pointcloud[:,2]/r_sph)
     return np.hstack((r_sph.reshape(-1,1), phi.reshape(-1,1), the.reshape(-1,1), pointcloud[:,3].reshape(-1,1)))
 
 def sph2car_pc(pointcloud):
