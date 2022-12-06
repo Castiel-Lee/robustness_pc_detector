@@ -51,3 +51,14 @@ Some parts of the code implement are learned from the official released codes of
 * Extraction of object-level points: [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 
 We would like to thank for their proposed methods and the official implementation.
+
+# Citation
+If you find this project useful in your research, please consider cite:
+```
+@article{li2022common,
+  title={Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement},
+  author={Li, Shuangzhi and Wang, Zhijie and Juefei-Xu, Felix and Guo, Qing and Li, Xingyu and Ma, Lei},
+  journal={arXiv preprint arXiv:2210.05896},
+  year={2022}
+}
+```
