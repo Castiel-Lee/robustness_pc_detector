@@ -43,6 +43,10 @@ We show some corruption examples based on the KITTI LiDAR example with ID = `000
 ### Scene-level layer missing
 ![layer_del example](https://github.com/Castiel-Lee/robustness_pc_detector/blob/main/image/layer_del.png)
 
+# Tested Detection Methods
+
+As in the paper, we test 7 voxel-based methods, 3 point-voxel-based methods, and 2 point-based methods (we re-shaped PartA2 with point-representation and pointnet++ backbone as PointRCNN) on the OpenPCDet (https://github.com/open-mmlab/OpenPCDet). Also, we extended CenterPoint to the versions of different data representations and different proposal architectures for relatively fair evaluation.
+
 # Acknowledgement
 Some parts of the code implement are learned from the official released codes of the below methods:
 * Snow and Rain simulation: [LISA](https://github.com/velatkilic/LISA)
@@ -51,6 +55,7 @@ Some parts of the code implement are learned from the official released codes of
 * Extraction of object-level points: [OpenPCDet](https://github.com/open-mmlab/OpenPCDet)
 
 We would like to thank for their proposed methods and the official implementation.
+
 
 # Citation
 If you find this project useful in your research, please consider cite:
