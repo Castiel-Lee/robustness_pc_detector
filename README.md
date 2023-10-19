@@ -45,7 +45,7 @@ We show some corruption examples based on the KITTI LiDAR example with ID = `000
 
 # Tested Detection Methods
 
-As in the paper, we test 7 voxel-based methods, 3 point-voxel-based methods, and 2 point-based methods (we re-shaped PartA2 with point-representation and pointnet++ backbone as PointRCNN) on the OpenPCDet (https://github.com/open-mmlab/OpenPCDet). Also, we extended CenterPoint to the versions of different data representations and different proposal architectures for relatively fair evaluation.
+As in the paper, we tested 7 voxel-based methods, 3 point-voxel-based methods, and 2 point-based methods (we re-shaped PartA2 with point-representation and pointnet++ backbone) on the OpenPCDet (https://github.com/open-mmlab/OpenPCDet). Also, we extended CenterPoint to the versions of different data representations and different proposal architectures for relatively fair evaluation.
 
 # Acknowledgement
 Some parts of the code implement are learned from the official released codes of the below methods:
